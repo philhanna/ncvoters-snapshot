@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 .idea/
+*.swp
 build/
 develop-eggs/
 dist/
