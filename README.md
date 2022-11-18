@@ -7,4 +7,4 @@ which can be downloaded from https://dl.ncsbe.gov/index.html?prefix=data/Snapsho
 
 - [Github repository](https://github.com/philhanna/ncvoters-snapshot)
 - [Python 3.10 standard library doc](https://docs.python.org/3.10/library/index.html)
-- [NC Board of Elections](https://dl.ncsbe.gov/index.html?prefix=data/Snapshots/)
+- [NC Board of Elections snapshots website](https://dl.ncsbe.gov/index.html?prefix=data/Snapshots/)
